@@ -1,0 +1,40 @@
+_repo: Platonism-in-English-poetry-of-the-sixteenth-and-seventeenth-centuries_73049
+_version: 0.0.1
+alternative_title: Platonism in English poetry of the 16th and 17th centuries
+creator:
+  author:
+    agent_name: Harrison, John Smith
+    birthdate: 1877
+    gutenberg_agent_id: '56929'
+    url: http://www.gutenberg.org/2009/agents/56929
+description: '"This essay was presented as a dissertation for the doctorate in Columbia
+  University"--Preface.'
+gutenberg_issued: '2024-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73049'
+  lccn: 03022088
+language: en
+pgterms:marc904: https://archive.org/details/platonisminengli00harr
+pgterms:marc905: 20230411084814harrison
+pgterms:marc906: '1903'
+pgterms:marc907: us
+production_note: Richard Tonsing, Aaron Adrignola, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bThe Columbia university press, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Columbia University studies in comparative literature
+subjects:
+- !lcsh 'English poetry -- Early modern, 1500-1700 -- History and criticism'
+- !lcsh 'Thesis (Ph. D.)'
+- !lcsh 'Renaissance -- England'
+- !lcsh 'Plato -- Influence'
+- !lcsh 'English poetry -- Greek influences'
+- !lcsh 'Neoplatonism in literature'
+- !lcc 'PR'
+- GITenberg
+title: Platonism in English poetry of the sixteenth and seventeenth centuries
+url: http://www.gutenberg.org/ebooks/73049
