@@ -1,6 +1,9 @@
 _repo: Platonism-in-English-poetry-of-the-sixteenth-and-seventeenth-centuries_73049
 _version: 0.1.0
 alternative_title: Platonism in English poetry of the 16th and 17th centuries
+covers:
+- cover_type: archival
+  image_path: 73049-h/images/cover.jpg
 creator:
   author:
     agent_name: Harrison, John Smith
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56929
 description: '"This essay was presented as a dissertation for the doctorate in Columbia
   University"--Preface.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73049#Platonism-in-English-poetry-of-the-sixteenth-and-seventeenth-centuries
 gutenberg_issued: '2024-02-26'
 gutenberg_type: Text
 identifiers:
